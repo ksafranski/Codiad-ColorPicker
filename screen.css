@@ -162,3 +162,8 @@
 .colorpicker_rgb_r input, .colorpicker_rgb_g input, .colorpicker_rgb_b input, .colorpicker_hsb_h input, .colorpicker_hsb_s input, .colorpicker_hsb_b input {
     max-width: 30px;
 }
+
+/* Gutter color */
+.svg_color {
+    margin: 0 5px 0 -20px;
+}
